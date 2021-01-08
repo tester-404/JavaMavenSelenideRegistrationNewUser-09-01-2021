@@ -21,7 +21,7 @@ public class SelenideTestMavenFull01 {
     public void userReg(){
         //specify the email for registration
         element(By.linkText("Sign in")).click();
-        element(By.xpath("//input[@id='email_create']")).setValue("Blouse3@dfc.com");
+        element(By.xpath("//input[@id='email_create']")).setValue("testmail@test.com");
         element(By.id("SubmitCreate")).click();
 
         //fill out the registration form
