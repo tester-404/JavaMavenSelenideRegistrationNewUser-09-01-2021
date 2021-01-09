@@ -1,0 +1,14 @@
+1609984263758	geckodriver	INFO	Listening on 127.0.0.1:15408
+1609984264568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user41\\AppData\\Local\\Temp\\rust_mozprofilepY6jON"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609984268578	Marionette	INFO	Listening on port 51648
+1609984268774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609984375901	Marionette	INFO	Stopped listening on port 51648
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
